@@ -14,7 +14,7 @@ body {
 
 .main {
   /* looks over phone and details*/
-  background-image: url(/images/bgtile.png);
+  background-image: url(../images/bgtile.png);
   background-repeat: repeat-x;
 
   display: flex;
@@ -55,7 +55,7 @@ body {
   height: 40px;
   width: 100px;
 
-  background-image: url(/images/bgtile.png);
+  background-image: url(../images/bgtile.png);
   background-repeat: repeat-x;
 
   border: none;
@@ -71,7 +71,7 @@ body {
 }
 
 .text {
-  background-image: url(/images/frame.png);
+  background-image: url(../images/frame.png);
   background-repeat: no-repeat;
 
   display: flex;
